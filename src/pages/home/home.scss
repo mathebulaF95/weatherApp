@@ -1,3 +1,18 @@
 page-home {
 
+    ion-title{
+        background-color:steelblue !important;
+    }
+
+    ion-item{
+        background-color:steelblue !important;
+    }
+
+    ion-content{
+        background-image: url('../assets/imgs/we.jpg');
+        background-repeat: no-repeat;
+        //background-position: center center;
+        background-size: cover;
+        height: 100%;
+    }
 }

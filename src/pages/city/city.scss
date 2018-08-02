@@ -1,0 +1,60 @@
+
+    ion-content{
+       background-color:lightskyblue !important;
+        //background-image: url('../assets/imgs/weather.jpg');
+        //background-size: cover;
+       
+    }
+
+    ion-title{
+        background-color:lightskyblue !important;
+        color: aliceblue
+    }
+   
+        
+    
+.container{
+
+    float: left;
+    color:black;
+    margin-bottom: -17%;
+    width: 100%;
+    margin: 0;
+    background-color: lightskyblue !important;
+    text-align: center;
+}
+.condition-image{
+    height: 150px;
+    width: 50%;
+    left: 20px;
+    margin-left: 25%;
+}
+.temp_label{
+    font-size: 40px;
+
+    margin-top: -3%;
+}
+
+
+h2{
+    margin-top: -7%; 
+    //font-size: 250;
+}
+
+.left{
+text-align: left;
+margin-bottom: -18%;
+}
+
+.right{
+
+    text-align: right;
+
+}
+.nme{
+    margin-top: -12%; 
+   // font-size: 650;
+}
+
+
+
